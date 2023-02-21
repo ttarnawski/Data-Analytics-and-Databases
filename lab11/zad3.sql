@@ -1,0 +1,1 @@
+select sum(popn_total) as "Population" from nyc_census_blocks
